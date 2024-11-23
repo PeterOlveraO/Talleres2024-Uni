@@ -3,7 +3,6 @@ d = 0
 while True:
     i += 1
     print("Hola Github.")
-    print("gads")
-    
+    print("Pedro")
     if i == 5:
         break
