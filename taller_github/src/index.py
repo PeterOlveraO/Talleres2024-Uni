@@ -1,9 +1,8 @@
-i = 0
-d = 0
-while True:
-    i += 1
-    print("Hola Github.")
-    print("gads")
-    
-    if i == 5:
-        break
+a = int(input("Ingrese un numero:"))
+
+if a >= 18:
+    print("es mayor.")
+elif a <= 18:
+    print("es menor.")
+else:
+    print("Es igual")
